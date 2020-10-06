@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Flashcard-Quiz/static/css/main.cc5b2e3b.chunk.css",
+    "main.js": "/Flashcard-Quiz/static/js/main.80d4eaa5.chunk.js",
+    "main.js.map": "/Flashcard-Quiz/static/js/main.80d4eaa5.chunk.js.map",
+    "runtime-main.js": "/Flashcard-Quiz/static/js/runtime-main.33edead9.js",
+    "runtime-main.js.map": "/Flashcard-Quiz/static/js/runtime-main.33edead9.js.map",
+    "static/js/2.876188d9.chunk.js": "/Flashcard-Quiz/static/js/2.876188d9.chunk.js",
+    "static/js/2.876188d9.chunk.js.map": "/Flashcard-Quiz/static/js/2.876188d9.chunk.js.map",
+    "index.html": "/Flashcard-Quiz/index.html",
+    "precache-manifest.a998ec25386718d76299b0dc3e956c02.js": "/Flashcard-Quiz/precache-manifest.a998ec25386718d76299b0dc3e956c02.js",
+    "service-worker.js": "/Flashcard-Quiz/service-worker.js",
+    "static/css/main.cc5b2e3b.chunk.css.map": "/Flashcard-Quiz/static/css/main.cc5b2e3b.chunk.css.map",
+    "static/js/2.876188d9.chunk.js.LICENSE.txt": "/Flashcard-Quiz/static/js/2.876188d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33edead9.js",
+    "static/js/2.876188d9.chunk.js",
+    "static/css/main.cc5b2e3b.chunk.css",
+    "static/js/main.80d4eaa5.chunk.js"
+  ]
+}
